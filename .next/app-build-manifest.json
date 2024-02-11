@@ -1,0 +1,120 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/society/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/society/page.js"
+    ],
+    "/club/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/club/page.js"
+    ],
+    "/club/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/club/layout.js"
+    ],
+    "/club/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/club/login/page.js"
+    ],
+    "/society/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/society/login/page.js"
+    ],
+    "/society/society-member/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/society/society-member/page.js"
+    ],
+    "/society/society-member/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/society/society-member/layout.js"
+    ],
+    "/society/society-member/manage-requests/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/society/society-member/manage-requests/page.js"
+    ],
+    "/club/add-request/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/club/add-request/page.js"
+    ],
+    "/club/manage-requests/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/club/manage-requests/page.js"
+    ],
+    "/club/manage-recommendation-requests/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/club/manage-recommendation-requests/page.js"
+    ],
+    "/students-office/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/students-office/page.js"
+    ],
+    "/students-office/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/students-office/layout.js"
+    ],
+    "/students-office/manage-requests/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/students-office/manage-requests/page.js"
+    ],
+    "/students-office/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/students-office/login/page.js"
+    ],
+    "/chair-sap/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/chair-sap/page.js"
+    ],
+    "/chair-sap/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/chair-sap/layout.js"
+    ],
+    "/chair-sap/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/chair-sap/login/page.js"
+    ],
+    "/chair-sap/manage-requests/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/chair-sap/manage-requests/page.js"
+    ],
+    "/chair-sap/manage-recommendation-requests/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/chair-sap/manage-recommendation-requests/page.js"
+    ],
+    "/society/society-member/manage-recommendation-requests/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/society/society-member/manage-recommendation-requests/page.js"
+    ]
+  }
+}

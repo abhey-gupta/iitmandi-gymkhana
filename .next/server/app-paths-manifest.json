@@ -1,0 +1,9 @@
+{
+  "/society/login/page": "app/society/login/page.js",
+  "/api/society-member/fetch-by-token/route": "app/api/society-member/fetch-by-token/route.js",
+  "/api/request/fetch-all/route": "app/api/request/fetch-all/route.js",
+  "/club/page": "app/club/page.js",
+  "/club/manage-recommendation-requests/page": "app/club/manage-recommendation-requests/page.js",
+  "/society/society-member/manage-requests/page": "app/society/society-member/manage-requests/page.js",
+  "/society/society-member/manage-recommendation-requests/page": "app/society/society-member/manage-recommendation-requests/page.js"
+}

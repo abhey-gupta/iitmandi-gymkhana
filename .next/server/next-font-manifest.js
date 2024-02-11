@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/abheygupta/Documents/iit mandi gymkhana website/iitmandi-gymkhana/app/layout\":[\"static/media/e49ce0b8856acdcb-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
